@@ -1,0 +1,19 @@
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+img {
+  height: 500px;
+  width: 50%;
+  background-color: powderblue;
+}
+h2 {
+  text-align:  center;
+}
+h2.best{
+  font-size: 50px;
+  font-family: fantasy;
+  font-weight: bolder;
+  color: blue;
+}
